@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/poe-vendor-string/static/css/main.d0aaf418.css",
-    "main.js": "/poe-vendor-string/static/js/main.95490307.js",
+    "main.js": "/poe-vendor-string/static/js/main.249f9995.js",
     "index.html": "/poe-vendor-string/index.html",
     "main.d0aaf418.css.map": "/poe-vendor-string/static/css/main.d0aaf418.css.map",
-    "main.95490307.js.map": "/poe-vendor-string/static/js/main.95490307.js.map"
+    "main.249f9995.js.map": "/poe-vendor-string/static/js/main.249f9995.js.map"
   },
   "entrypoints": [
     "static/css/main.d0aaf418.css",
-    "static/js/main.95490307.js"
+    "static/js/main.249f9995.js"
   ]
 }
