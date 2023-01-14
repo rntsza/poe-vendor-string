@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.1348e6e8.css",
-    "main.js": "/static/js/main.656c9c72.js",
+    "main.css": "/static/css/main.c262b1de.css",
+    "main.js": "/static/js/main.3a100199.js",
     "static/media/left_middle_fade_s.png": "/static/media/left_middle_fade_s.5446c8a764f481af55a9.png",
     "static/media/right_middle_fade_s.png": "/static/media/right_middle_fade_s.9fd35f0ab9f5103a50a0.png",
+    "static/media/bmc-logo-no-background.png": "/static/media/bmc-logo-no-background.d6e284bcf6fb5faa732f.png",
     "static/media/manrope-all-400-normal.woff": "/static/media/manrope-all-400-normal.29812aea39915b828ff1.woff",
     "static/media/chain_icon.png": "/static/media/chain_icon.069b3c0ad9ac72861076.png",
     "static/media/crimson_temple_map.png": "/static/media/crimson_temple_map.5208156016ae6fab47b7.png",
@@ -15,11 +16,11 @@
     "static/media/manrope-vietnamese-400-normal.woff2": "/static/media/manrope-vietnamese-400-normal.4bb1be8af765fce74e9b.woff2",
     "static/media/manrope-cyrillic-ext-400-normal.woff2": "/static/media/manrope-cyrillic-ext-400-normal.a26a46564e052e1282fa.woff2",
     "index.html": "/index.html",
-    "main.1348e6e8.css.map": "/static/css/main.1348e6e8.css.map",
-    "main.656c9c72.js.map": "/static/js/main.656c9c72.js.map"
+    "main.c262b1de.css.map": "/static/css/main.c262b1de.css.map",
+    "main.3a100199.js.map": "/static/js/main.3a100199.js.map"
   },
   "entrypoints": [
-    "static/css/main.1348e6e8.css",
-    "static/js/main.656c9c72.js"
+    "static/css/main.c262b1de.css",
+    "static/js/main.3a100199.js"
   ]
 }
