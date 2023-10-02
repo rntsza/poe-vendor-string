@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a92822a.css",
-    "main.js": "/static/js/main.2ba8230d.js",
+    "main.css": "/static/css/main.fe752ba4.css",
+    "main.js": "/static/js/main.f8942e7e.js",
     "static/media/left_middle_fade_s.png": "/static/media/left_middle_fade_s.5446c8a764f481af55a9.png",
     "static/media/right_middle_fade_s.png": "/static/media/right_middle_fade_s.9fd35f0ab9f5103a50a0.png",
     "static/media/bmc-logo-no-background.png": "/static/media/bmc-logo-no-background.d6e284bcf6fb5faa732f.png",
@@ -9,6 +9,7 @@
     "static/media/chain_icon.png": "/static/media/chain_icon.069b3c0ad9ac72861076.png",
     "static/media/crimson_temple_map.png": "/static/media/crimson_temple_map.5208156016ae6fab47b7.png",
     "static/media/manrope-latin-400-normal.woff2": "/static/media/manrope-latin-400-normal.2cfae0fb4662deefa552.woff2",
+    "static/media/Chaos_Orb_inventory_icon.png": "/static/media/Chaos_Orb_inventory_icon.52201c2ac11824366958.png",
     "static/media/expeidition_reroll.png": "/static/media/expeidition_reroll.c0a103cfca560e13cad8.png",
     "static/media/manrope-latin-ext-400-normal.woff2": "/static/media/manrope-latin-ext-400-normal.9408d54f42fd8adee645.woff2",
     "static/media/manrope-cyrillic-400-normal.woff2": "/static/media/manrope-cyrillic-400-normal.18b8749c8a2e81c91aa3.woff2",
@@ -16,11 +17,11 @@
     "static/media/manrope-vietnamese-400-normal.woff2": "/static/media/manrope-vietnamese-400-normal.4bb1be8af765fce74e9b.woff2",
     "static/media/manrope-cyrillic-ext-400-normal.woff2": "/static/media/manrope-cyrillic-ext-400-normal.a26a46564e052e1282fa.woff2",
     "index.html": "/index.html",
-    "main.9a92822a.css.map": "/static/css/main.9a92822a.css.map",
-    "main.2ba8230d.js.map": "/static/js/main.2ba8230d.js.map"
+    "main.fe752ba4.css.map": "/static/css/main.fe752ba4.css.map",
+    "main.f8942e7e.js.map": "/static/js/main.f8942e7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a92822a.css",
-    "static/js/main.2ba8230d.js"
+    "static/css/main.fe752ba4.css",
+    "static/js/main.f8942e7e.js"
   ]
 }
