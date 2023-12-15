@@ -1,12 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad89c6b8.css",
-    "main.js": "/static/js/main.5a71403d.js",
-    "static/media/left_middle_fade_s.png": "/static/media/left_middle_fade_s.5446c8a764f481af55a9.png",
-    "static/media/right_middle_fade_s.png": "/static/media/right_middle_fade_s.9fd35f0ab9f5103a50a0.png",
+    "main.css": "/static/css/main.fb17fe78.css",
+    "main.js": "/static/js/main.887e4f08.js",
     "static/media/bmc-logo-no-background.png": "/static/media/bmc-logo-no-background.d6e284bcf6fb5faa732f.png",
     "static/media/manrope-all-400-normal.woff": "/static/media/manrope-all-400-normal.29812aea39915b828ff1.woff",
-    "static/media/chain_icon.png": "/static/media/chain_icon.069b3c0ad9ac72861076.png",
     "static/media/crimson_temple_map.png": "/static/media/crimson_temple_map.5208156016ae6fab47b7.png",
     "static/media/manrope-latin-400-normal.woff2": "/static/media/manrope-latin-400-normal.2cfae0fb4662deefa552.woff2",
     "static/media/Chaos_Orb_inventory_icon.png": "/static/media/Chaos_Orb_inventory_icon.52201c2ac11824366958.png",
@@ -17,11 +14,11 @@
     "static/media/manrope-vietnamese-400-normal.woff2": "/static/media/manrope-vietnamese-400-normal.4bb1be8af765fce74e9b.woff2",
     "static/media/manrope-cyrillic-ext-400-normal.woff2": "/static/media/manrope-cyrillic-ext-400-normal.a26a46564e052e1282fa.woff2",
     "index.html": "/index.html",
-    "main.ad89c6b8.css.map": "/static/css/main.ad89c6b8.css.map",
-    "main.5a71403d.js.map": "/static/js/main.5a71403d.js.map"
+    "main.fb17fe78.css.map": "/static/css/main.fb17fe78.css.map",
+    "main.887e4f08.js.map": "/static/js/main.887e4f08.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad89c6b8.css",
-    "static/js/main.5a71403d.js"
+    "static/css/main.fb17fe78.css",
+    "static/js/main.887e4f08.js"
   ]
 }
